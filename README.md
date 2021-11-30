@@ -1,5 +1,8 @@
 # text-portrait-effects
 
+## Demo
+![エビフライトライアングル](src/assets/demo.jpg)
+
 ## Project setup
 ```
 npm install
@@ -22,3 +25,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Refs
+https://www.geeksforgeeks.org/text-portrait-using-css/
+https://www.youtube.com/watch?v=JNQZWvm0jP4
