@@ -4,9 +4,6 @@
     "stylelint-config-standard-scss",
     "stylelint-config-recess-order"
   ],
-  "plugins": [
-    "stylelint-scss"
-  ],
   "overrides": [
     {
       "files": ["**/*.scss"],
