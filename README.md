@@ -27,5 +27,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Refs
-https://www.geeksforgeeks.org/text-portrait-using-css/
-https://www.youtube.com/watch?v=JNQZWvm0jP4
+* https://www.geeksforgeeks.org/text-portrait-using-css/
+* https://www.youtube.com/watch?v=JNQZWvm0jP4
+
+### images
+* https://publicdomainq.net/woman-girl-portrait-0013838/
